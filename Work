@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Projects | Sara's Portfolio</title>
+</head>
+<body>
+  <header>
+    <h1>Projects and Work</h1>
+
+    <nav aria-label="Main navigation">
+      <a href="index.html">Home</a>
+      <a href="projects.html">Projects/Work</a>
+      <a href="about.html">About/Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>My Projects</h2>
+
+      <article>
+        <h3>Project One: Personal Portfolio</h3>
+        <p>This project introduces me and showcases my work.</p>
+        <p>More project details will go here.</p>
+      </article>
+
+      <article>
+        <h3>Project Two: Future Class Project</h3>
+        <p>A description of another project will go here.</p>
+      </article>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 Sara. All rights reserved.</p>
+  </footer>
+</body>
+</html>
